@@ -1,4 +1,4 @@
-<img src="assets/devsecops.png" alt="devops" width="1080">
+<img src="assests/devsecops.png" alt="devops" width="1080">
 
 Welcome to my github learning space
 
